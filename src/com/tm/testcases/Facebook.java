@@ -25,15 +25,15 @@ public class Facebook {
                    System.out.println("JAVA,Selenium"+ "Updated by person2.............");
 
                }
-<<<<<<< HEAD
+
 
                 public void Hello4()
               {
                    System.out.println("JAVA,Selenium"+ "Updated by person2.............");
 
                }
-}
-=======
+
+
                
                public void Hello2()
                {
@@ -47,11 +47,11 @@ public class Facebook {
 
                 }
                 
+}       
                
                
                
-               
-}          
+         
               
 
->>>>>>> 4abf29da2b777941538a742cdef7dd982c6807cc
+
