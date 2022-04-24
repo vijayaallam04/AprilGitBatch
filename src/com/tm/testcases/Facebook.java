@@ -31,7 +31,16 @@ public class Facebook {
                     System.out.println("JAVA,Selenium"+ "Updated by person1.............");
 
                 }
+               
+               public void Hello3()
+               {
+                    System.out.println("JAVA,Selenium"+ "Updated by person1.............");
+
+                }
                 
+               
+               
+               
                
 }          
               
