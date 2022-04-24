@@ -20,4 +20,10 @@ public class Facebook {
                    System.out.println("JAVA,Selenium"+ "Updated by person2.............");
 
                }
+
+                public void Hello4()
+              {
+                   System.out.println("JAVA,Selenium"+ "Updated by person2.............");
+
+               }
 }
