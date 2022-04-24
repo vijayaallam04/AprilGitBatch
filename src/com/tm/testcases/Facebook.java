@@ -13,8 +13,11 @@ public class Facebook {
 		driver.findElement(By.id("email")).sendKeys("gundabathulavlakshmi90@gmail.com");
 		driver.findElement(By.id("pass")).sendKeys("hanvesh11");
 		driver.manage().timeouts().implicitlyWait(20, TimeUnit.SECONDS);
-		
-	
-	}
+                }
 
+               public void Hello1()
+              {
+                   System.out.println("JAVA,Selenium"+ "Updated by person2.............");
+
+               }
 }
