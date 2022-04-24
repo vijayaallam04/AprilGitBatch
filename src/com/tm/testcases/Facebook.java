@@ -14,12 +14,18 @@ public class Facebook {
 		driver.findElement(By.id("pass")).sendKeys("hanvesh11");
 		driver.manage().timeouts().implicitlyWait(20, TimeUnit.SECONDS);
                 }
+	
+	public void PersonOneCode()
+	{
+		System.out.println("Added by Person1");
+	}
 
                public void Hello1()
               {
                    System.out.println("JAVA,Selenium"+ "Updated by person2.............");
 
                }
+<<<<<<< HEAD
 
                 public void Hello4()
               {
@@ -27,3 +33,16 @@ public class Facebook {
 
                }
 }
+=======
+               
+               public void Hello2()
+               {
+                    System.out.println("JAVA,Selenium"+ "Updated by person1.............");
+
+                }
+                
+               
+}          
+              
+
+>>>>>>> 4abf29da2b777941538a742cdef7dd982c6807cc
